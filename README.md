@@ -2,7 +2,6 @@
 - 👀 I’m interested in developing automation test scripts for Web Applications.
 - 🌱 I’m currently learning pytest framework and you can see simple test suites using pytest in my profile...
 - 💞️ I’m looking to collaborate on Open source projects based on python and testing..
-- 📫 How to reach me ...
 
 <!---
 nmpriya-qa/nmpriya-qa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
